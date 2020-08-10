@@ -11,7 +11,8 @@ This repository contains information about what we are working on and allows all
 
 Q: Why are there no dates on your roadmap?
 
-A: Because job zero is security and operational stability, we can't provide specific target dates for features.
+A: We won't provide specific dates for releases. We do however sorting tickets according to priority meaning that in every category on the roadmap.
+The ticket at the top is the biggest priority.
 
 Q: What do the roadmap categories mean?
 
