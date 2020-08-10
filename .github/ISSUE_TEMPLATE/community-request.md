@@ -1,7 +1,7 @@
 ---
 name: 'Community request '
-about: Suggest an idea for the roadmap! The team will review.
-title: "[service] [request]: describe request here"
+about: Suggest an idea for the Datafy roadmap! The team will review.
+title: "[request]: describe request here"
 labels: Proposed
 assignees: ''
 
