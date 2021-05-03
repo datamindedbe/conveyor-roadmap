@@ -13,7 +13,7 @@ We welcome you to use issues to report bugs or suggest features.
 
 If you're suggesting a new feature (i.e., functionality that doesn't exist yet), please use our issue template.  This will prompt you to answer a few questions that will help us figure out what you're looking for.  The template will also tag incoming issues with "Proposed".  This gives us a way to filter the community-opened issues quickly so we can review as a team.
 
-If you want to see the list of proposed features, you can see the view [here](https://github.com/datamindedbe/datafy-roadmap/labels/Proposed).
+If you want to see the list of proposed features, you can see the view [here](https://github.com/datamindedbe/datafy-roadmap/labels/proposed).
 
 Check for duplicates, though! When filing an issue, please check [existing open](https://github.com/datamindedbe/datafy-roadmap/issues), or [recently closed](https://github.com/datamindedbe/datafy-roadmap/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20) issues to make sure somebody else hasn't already reported the issue.
 
