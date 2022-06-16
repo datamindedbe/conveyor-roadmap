@@ -1,11 +1,11 @@
-# Datafy roadmap
+# Conveyor roadmap
 
-This is the public roadmap for Datafy.
+This is the public roadmap for Conveyor.
 
 # Introduction
 
-This is the public roadmap for Datafy. Knowing about our upcoming products and priorities helps our customers plan.
-This repository contains information about what we are working on and allows all Datafy customers to give direct feedback.
+This is the public roadmap for Conveyor. Knowing about our upcoming products and priorities helps our customers plan.
+This repository contains information about what we are working on and allows all Conveyor customers to give direct feedback.
 
 We also hope to get your ideas gathered in this one place. That way our different customers can collaborate in the things they would like to see solved.
 
